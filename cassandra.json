@@ -330,7 +330,7 @@
           "typeHandlerVersion": "2.0",
           "autoUpgradeMinorVersion": true,
           "settings": {
-            "fileUris": ["https://raw.githubusercontent.com/sangaml/HDInsightPOC/master/node1.sh"
+            "fileUris": ["https://raw.githubusercontent.com/sangaml/Cassandra_Cluster/master/node1.sh"
             ]
           },
           "protectedSettings": {
@@ -401,7 +401,7 @@
           "typeHandlerVersion": "2.0",
           "autoUpgradeMinorVersion": true,
           "settings": {
-            "fileUris": ["https://raw.githubusercontent.com/sangaml/HDInsightPOC/master/node2.sh"
+            "fileUris": ["https://raw.githubusercontent.com/sangaml/Cassandra_Cluster/master/node2.sh"
             ]
           },
           "protectedSettings": {
